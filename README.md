@@ -1,14 +1,14 @@
 # Concept-Guided Interpretability via Neural Chunking
+This repository contains code and resources to replicate the experiments from the paper
 
 
-This repository contains code and resources to replicate the experiments from our paper
 **Wu, Shuchen; Alaniz, Stephan; Karthik, Shyamgopal; Dayan, Peter; Schulz, Eric; Akata, Zeynep.**  
 *Concept-Guided Interpretability via Neural Chunking.*  
 Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.  
 
 The repository provides implementations of the chunking-based interpretability methods introduced in the paper, along with example configurations, training scripts, and evaluation routines. We hope this serves as a useful resource for exploring neural chunking as a path toward concept-guided interpretability in neural networks.
-
 Please don't hesitate to contact me at shuchen.wu at alleninstitute.org or open an issue in case there is any question!
+
 ---
 TODO: 
 1. [x] add & test data collection code
@@ -20,7 +20,11 @@ TODO:
 ## 📂 Repository Structure  
 ```
 ├── RNN_experiments/ # Replication of RNN experiments
-│ ├── experiment_data/ 
+│ ├── experiment_data/ # folder to store experimental data
+│ ├── RNN_1_reflection.ipynb # simple reflection hypothesis experiments on RNN
+│ ├── RNN_2_artificially_induce_compositionality.ipynb # grafting RNN to induce compositionality
+│ ├── RNN_3_context_dependent_chunks.ipynb # measure neural chunks and their dependency on context
+│ ├── RNN_4_hierarchy.ipynb # study the number of internal chunks and the level of hierarchy in sequence 
 ├── data_collection/ # code to collect LLM activation data 
 ├── PA/ # code to replicate population averaging
 ├── UCD/ # code to discover chunks in an unsupervised way
