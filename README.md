@@ -1,7 +1,64 @@
-# Repository of Concept-guided interpretability via neural chunking
+# Concept-Guided Interpretability via Neural Chunking
+
+This repository contains the code to replicate the experiments from:  
+
+**Wu, Shuchen; Alaniz, Stephan; Karthik, Shyamgopal; Dayan, Peter; Schulz, Eric; Akata, Zeynep.**  
+*Concept-Guided Interpretability via Neural Chunking.*  
+Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.  
+
+---
 TODO: 
-1. [ ] add & test data collection code
-2. [ ] add RNN experiments
+1. [x] add & test data collection code
+2. [x] add RNN experiments
 3. [ ] add population averaging code, both python and jupyter notebook evaluated on LLama3
 4. [ ] add perturbation code
 5. [ ] add unsupervised chunk discovery
+
+## 📂 Repository Structure  
+```
+├── RNN_experiments/ # Replication of RNN experiments
+│ ├── experiment_data/ 
+├── data_collection/ # code to collect LLM activation data 
+├── PA/ # code to replicate population averaging
+├── UCD/ # code to discover chunks in an unsupervised way
+│ ├── models/ # Model architectures (chunking modules, encoders, etc.)
+│ ├── training/ # Training scripts and utilities
+│ ├── evaluation/ # Evaluation metrics and analysis scripts
+│ └── utils/ # Helper functions
+├── requirements.txt # Python dependencies
+├── README.md # Project overview (this file)
+```
+## 🚀 Getting Started  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/swu32/Chunk-Interpretability.git
+   cd neural-chunking
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run a sample experiment
+   python src/training/train_chunk_model.py --config configs/chunk_train.json
+
+
+---
+
+## 📖 Citation
+If you use this code in your research, please cite:
+```
+@inproceedings{wu2025concept,
+  title     = {Concept-Guided Interpretability via Neural Chunking},
+  author    = {Wu, Shuchen and Alaniz, Stephan and Karthik, Shyamgopal and Dayan, Peter and Schulz, Eric and Akata, Zeynep},
+  booktitle = {Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS)},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=o87dDXYLXC}
+}
+```
+
+APA:
+Wu, S., Alaniz, S., Karthik, S., Dayan, P., Schulz, E., & Akata, Z. (2025).
+Concept-guided interpretability via neural chunking.
+In Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS).
+Retrieved from https://openreview.net/forum?id=o87dDXYLXC
