@@ -1,7 +1,19 @@
+# Core numerical and data analysis libraries
 numpy
 pandas
 matplotlib
+scikit-learn
+
+# Deep learning framework
 torch
+
+# Natural Language Processing
+nltk
+
+# Transformers and Hugging Face utilities
 transformers
 huggingface_hub
-scikit-learn
+
+# Note:
+# - nltk requires downloading corpora (e.g., gutenberg) via nltk.download('gutenberg')
+# - huggingface_hub login can be handled via 'huggingface-cli login' or programmatically
