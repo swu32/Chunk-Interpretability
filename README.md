@@ -13,8 +13,8 @@ Please don't hesitate to contact me at shuchen.wu at alleninstitute.org or open 
 TODO: 
 1. [x] add & test data collection code
 2. [x] add RNN experiments
-3. [ ] add population averaging code, both python and jupyter notebook evaluated on LLama3
-4. [ ] add perturbation code
+3. [x] add population averaging code, both python and jupyter notebook evaluated on LLama3
+4. [x] add perturbation code
 5. [ ] add unsupervised chunk discovery
 
 ## 📂 Repository Structure  
