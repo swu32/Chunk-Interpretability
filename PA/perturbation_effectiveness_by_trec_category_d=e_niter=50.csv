@@ -1,0 +1,901 @@
+Target Word,TREC_Category,Condition,Occurrence Probability,Chunk Category
+in,DESC,Without Perturbation (Control),0.58,Unknown
+in,DESC,With Perturbation,0.92,Unknown
+the,DESC,Without Perturbation (Control),0.92,Unknown
+the,DESC,With Perturbation,0.9,Unknown
+be,DESC,Without Perturbation (Control),0.16,Unknown
+be,DESC,With Perturbation,0.5,Unknown
+to,DESC,Without Perturbation (Control),0.58,Unknown
+to,DESC,With Perturbation,0.74,Unknown
+of,DESC,Without Perturbation (Control),0.7,Unknown
+of,DESC,With Perturbation,0.34,Unknown
+and,DESC,Without Perturbation (Control),0.58,Unknown
+and,DESC,With Perturbation,0.76,Unknown
+a,DESC,Without Perturbation (Control),0.76,Unknown
+a,DESC,With Perturbation,0.92,Unknown
+that,DESC,Without Perturbation (Control),0.44,Unknown
+that,DESC,With Perturbation,0.8,Unknown
+have,DESC,Without Perturbation (Control),0.18,Unknown
+have,DESC,With Perturbation,0.56,Unknown
+it,DESC,Without Perturbation (Control),0.64,Unknown
+it,DESC,With Perturbation,0.54,Unknown
+with,DESC,Without Perturbation (Control),0.2,Unknown
+with,DESC,With Perturbation,0.7,Unknown
+they,DESC,Without Perturbation (Control),0.16,Unknown
+they,DESC,With Perturbation,0.66,Unknown
+we,DESC,Without Perturbation (Control),0.06,Unknown
+we,DESC,With Perturbation,0.1,Unknown
+who,DESC,Without Perturbation (Control),0.18,Unknown
+who,DESC,With Perturbation,0.76,Unknown
+can,DESC,Without Perturbation (Control),0.26,Unknown
+can,DESC,With Perturbation,0.56,Unknown
+people,DESC,Without Perturbation (Control),0.1,Unknown
+people,DESC,With Perturbation,0.6,Unknown
+us,DESC,Without Perturbation (Control),0.04,Unknown
+us,DESC,With Perturbation,0.36,Unknown
+DT,DESC,Without Perturbation (Control),0.0,Unknown
+DT,DESC,With Perturbation,0.0,Unknown
+IN,DESC,Without Perturbation (Control),0.62,Unknown
+IN,DESC,With Perturbation,0.54,Unknown
+NN,DESC,Without Perturbation (Control),0.0,Unknown
+NN,DESC,With Perturbation,0.0,Unknown
+cheese,DESC,Without Perturbation (Control),0.0,Unknown
+cheese,DESC,With Perturbation,0.84,Unknown
+cake,DESC,Without Perturbation (Control),0.0,Unknown
+cake,DESC,With Perturbation,0.84,Unknown
+cheesecake,DESC,Without Perturbation (Control),0.0,Unknown
+cheesecake,DESC,With Perturbation,0.1,Unknown
+Llama3,DESC,Without Perturbation (Control),0.0,Unknown
+Llama3,DESC,With Perturbation,0.0,Unknown
+3 llamas,DESC,Without Perturbation (Control),0.0,Unknown
+3 llamas,DESC,With Perturbation,0.0,Unknown
+3,DESC,Without Perturbation (Control),0.04,Unknown
+3,DESC,With Perturbation,0.32,Unknown
+llama,DESC,Without Perturbation (Control),0.0,Unknown
+llama,DESC,With Perturbation,0.68,Unknown
+I,DESC,Without Perturbation (Control),0.12,Unknown
+I,DESC,With Perturbation,0.82,Unknown
+for,DESC,Without Perturbation (Control),0.36,Unknown
+for,DESC,With Perturbation,0.74,Unknown
+not,DESC,Without Perturbation (Control),0.18,Unknown
+not,DESC,With Perturbation,0.72,Unknown
+on,DESC,Without Perturbation (Control),0.22,Unknown
+on,DESC,With Perturbation,0.42,Unknown
+he,DESC,Without Perturbation (Control),0.08,Unknown
+he,DESC,With Perturbation,0.1,Unknown
+as,DESC,Without Perturbation (Control),0.16,Unknown
+as,DESC,With Perturbation,0.5,Unknown
+you,DESC,Without Perturbation (Control),0.2,Unknown
+you,DESC,With Perturbation,0.26,Unknown
+do,DESC,Without Perturbation (Control),0.18,Unknown
+do,DESC,With Perturbation,0.3,Unknown
+at,DESC,Without Perturbation (Control),0.04,Unknown
+at,DESC,With Perturbation,0.08,Unknown
+this,DESC,Without Perturbation (Control),0.14,Unknown
+this,DESC,With Perturbation,0.14,Unknown
+but,DESC,Without Perturbation (Control),0.14,Unknown
+but,DESC,With Perturbation,0.7,Unknown
+his,DESC,Without Perturbation (Control),0.04,Unknown
+his,DESC,With Perturbation,0.6,Unknown
+by,DESC,Without Perturbation (Control),0.36,Unknown
+by,DESC,With Perturbation,0.66,Unknown
+from,DESC,Without Perturbation (Control),0.18,Unknown
+from,DESC,With Perturbation,0.66,Unknown
+say,DESC,Without Perturbation (Control),0.04,Unknown
+say,DESC,With Perturbation,0.6,Unknown
+her,DESC,Without Perturbation (Control),0.0,Unknown
+her,DESC,With Perturbation,0.02,Unknown
+she,DESC,Without Perturbation (Control),0.0,Unknown
+she,DESC,With Perturbation,0.6,Unknown
+or,DESC,Without Perturbation (Control),0.3,Unknown
+or,DESC,With Perturbation,0.34,Unknown
+an,DESC,Without Perturbation (Control),0.18,Unknown
+an,DESC,With Perturbation,0.72,Unknown
+will,DESC,Without Perturbation (Control),0.08,Unknown
+will,DESC,With Perturbation,0.5,Unknown
+my,DESC,Without Perturbation (Control),0.0,Unknown
+my,DESC,With Perturbation,0.04,Unknown
+one,DESC,Without Perturbation (Control),0.14,Unknown
+one,DESC,With Perturbation,0.12,Unknown
+all,DESC,Without Perturbation (Control),0.0,Unknown
+all,DESC,With Perturbation,0.68,Unknown
+would,DESC,Without Perturbation (Control),0.0,Unknown
+would,DESC,With Perturbation,0.06,Unknown
+there,DESC,Without Perturbation (Control),0.14,Unknown
+there,DESC,With Perturbation,0.74,Unknown
+their,DESC,Without Perturbation (Control),0.06,Unknown
+their,DESC,With Perturbation,0.06,Unknown
+what,DESC,Without Perturbation (Control),0.58,Unknown
+what,DESC,With Perturbation,0.72,Unknown
+so,DESC,Without Perturbation (Control),0.12,Unknown
+so,DESC,With Perturbation,0.54,Unknown
+up,DESC,Without Perturbation (Control),0.02,Unknown
+up,DESC,With Perturbation,0.4,Unknown
+out,DESC,Without Perturbation (Control),0.04,Unknown
+out,DESC,With Perturbation,0.66,Unknown
+if,DESC,Without Perturbation (Control),0.16,Unknown
+if,DESC,With Perturbation,0.16,Unknown
+about,DESC,Without Perturbation (Control),0.14,Unknown
+about,DESC,With Perturbation,0.62,Unknown
+.,DESC,Without Perturbation (Control),0.06,Unknown
+.,DESC,With Perturbation,0.08,Unknown
+wanted,DESC,Without Perturbation (Control),0.02,Unknown
+wanted,DESC,With Perturbation,0.56,Unknown
+school,DESC,Without Perturbation (Control),0.0,Unknown
+school,DESC,With Perturbation,0.84,Unknown
+friends,DESC,Without Perturbation (Control),0.0,Unknown
+friends,DESC,With Perturbation,0.48,Unknown
+family,DESC,Without Perturbation (Control),0.0,Unknown
+family,DESC,With Perturbation,0.58,Unknown
+needed,DESC,Without Perturbation (Control),0.0,Unknown
+needed,DESC,With Perturbation,0.28,Unknown
+birthday,DESC,Without Perturbation (Control),0.0,Unknown
+birthday,DESC,With Perturbation,0.74,Unknown
+walking,DESC,Without Perturbation (Control),0.0,Unknown
+walking,DESC,With Perturbation,0.68,Unknown
+christmas,DESC,Without Perturbation (Control),0.0,Unknown
+christmas,DESC,With Perturbation,0.68,Unknown
+playing,DESC,Without Perturbation (Control),0.0,Unknown
+playing,DESC,With Perturbation,0.52,Unknown
+morning,DESC,Without Perturbation (Control),0.0,Unknown
+morning,DESC,With Perturbation,0.38,Unknown
+really,DESC,Without Perturbation (Control),0.0,Unknown
+really,DESC,With Perturbation,0.54,Unknown
+bought,DESC,Without Perturbation (Control),0.0,Unknown
+bought,DESC,With Perturbation,0.46,Unknown
+mother,DESC,Without Perturbation (Control),0.02,Unknown
+mother,DESC,With Perturbation,0.64,Unknown
+decided,DESC,Without Perturbation (Control),0.0,Unknown
+decided,DESC,With Perturbation,0.44,Unknown
+always,DESC,Without Perturbation (Control),0.02,Unknown
+always,DESC,With Perturbation,0.52,Unknown
+in,ENTY,Without Perturbation (Control),0.54,Unknown
+in,ENTY,With Perturbation,0.94,Unknown
+the,ENTY,Without Perturbation (Control),0.9,Unknown
+the,ENTY,With Perturbation,0.94,Unknown
+be,ENTY,Without Perturbation (Control),0.12,Unknown
+be,ENTY,With Perturbation,0.36,Unknown
+to,ENTY,Without Perturbation (Control),0.4,Unknown
+to,ENTY,With Perturbation,0.5,Unknown
+of,ENTY,Without Perturbation (Control),0.88,Unknown
+of,ENTY,With Perturbation,0.5,Unknown
+and,ENTY,Without Perturbation (Control),0.46,Unknown
+and,ENTY,With Perturbation,0.66,Unknown
+a,ENTY,Without Perturbation (Control),0.72,Unknown
+a,ENTY,With Perturbation,0.94,Unknown
+that,ENTY,Without Perturbation (Control),0.3,Unknown
+that,ENTY,With Perturbation,0.8,Unknown
+have,ENTY,Without Perturbation (Control),0.08,Unknown
+have,ENTY,With Perturbation,0.58,Unknown
+it,ENTY,Without Perturbation (Control),0.38,Unknown
+it,ENTY,With Perturbation,0.4,Unknown
+with,ENTY,Without Perturbation (Control),0.14,Unknown
+with,ENTY,With Perturbation,0.78,Unknown
+they,ENTY,Without Perturbation (Control),0.08,Unknown
+they,ENTY,With Perturbation,0.56,Unknown
+we,ENTY,Without Perturbation (Control),0.02,Unknown
+we,ENTY,With Perturbation,0.02,Unknown
+who,ENTY,Without Perturbation (Control),0.04,Unknown
+who,ENTY,With Perturbation,0.7,Unknown
+can,ENTY,Without Perturbation (Control),0.08,Unknown
+can,ENTY,With Perturbation,0.6,Unknown
+people,ENTY,Without Perturbation (Control),0.02,Unknown
+people,ENTY,With Perturbation,0.6,Unknown
+us,ENTY,Without Perturbation (Control),0.02,Unknown
+us,ENTY,With Perturbation,0.5,Unknown
+DT,ENTY,Without Perturbation (Control),0.0,Unknown
+DT,ENTY,With Perturbation,0.0,Unknown
+IN,ENTY,Without Perturbation (Control),0.54,Unknown
+IN,ENTY,With Perturbation,0.52,Unknown
+NN,ENTY,Without Perturbation (Control),0.0,Unknown
+NN,ENTY,With Perturbation,0.0,Unknown
+cheese,ENTY,Without Perturbation (Control),0.0,Unknown
+cheese,ENTY,With Perturbation,0.82,Unknown
+cake,ENTY,Without Perturbation (Control),0.0,Unknown
+cake,ENTY,With Perturbation,0.74,Unknown
+cheesecake,ENTY,Without Perturbation (Control),0.0,Unknown
+cheesecake,ENTY,With Perturbation,0.0,Unknown
+Llama3,ENTY,Without Perturbation (Control),0.0,Unknown
+Llama3,ENTY,With Perturbation,0.0,Unknown
+3 llamas,ENTY,Without Perturbation (Control),0.0,Unknown
+3 llamas,ENTY,With Perturbation,0.0,Unknown
+3,ENTY,Without Perturbation (Control),0.02,Unknown
+3,ENTY,With Perturbation,0.26,Unknown
+llama,ENTY,Without Perturbation (Control),0.0,Unknown
+llama,ENTY,With Perturbation,0.58,Unknown
+I,ENTY,Without Perturbation (Control),0.06,Unknown
+I,ENTY,With Perturbation,0.76,Unknown
+for,ENTY,Without Perturbation (Control),0.28,Unknown
+for,ENTY,With Perturbation,0.72,Unknown
+not,ENTY,Without Perturbation (Control),0.1,Unknown
+not,ENTY,With Perturbation,0.6,Unknown
+on,ENTY,Without Perturbation (Control),0.26,Unknown
+on,ENTY,With Perturbation,0.24,Unknown
+he,ENTY,Without Perturbation (Control),0.04,Unknown
+he,ENTY,With Perturbation,0.04,Unknown
+as,ENTY,Without Perturbation (Control),0.12,Unknown
+as,ENTY,With Perturbation,0.72,Unknown
+you,ENTY,Without Perturbation (Control),0.16,Unknown
+you,ENTY,With Perturbation,0.16,Unknown
+do,ENTY,Without Perturbation (Control),0.1,Unknown
+do,ENTY,With Perturbation,0.16,Unknown
+at,ENTY,Without Perturbation (Control),0.02,Unknown
+at,ENTY,With Perturbation,0.14,Unknown
+this,ENTY,Without Perturbation (Control),0.16,Unknown
+this,ENTY,With Perturbation,0.16,Unknown
+but,ENTY,Without Perturbation (Control),0.12,Unknown
+but,ENTY,With Perturbation,0.66,Unknown
+his,ENTY,Without Perturbation (Control),0.02,Unknown
+his,ENTY,With Perturbation,0.56,Unknown
+by,ENTY,Without Perturbation (Control),0.26,Unknown
+by,ENTY,With Perturbation,0.66,Unknown
+from,ENTY,Without Perturbation (Control),0.1,Unknown
+from,ENTY,With Perturbation,0.66,Unknown
+say,ENTY,Without Perturbation (Control),0.02,Unknown
+say,ENTY,With Perturbation,0.44,Unknown
+her,ENTY,Without Perturbation (Control),0.04,Unknown
+her,ENTY,With Perturbation,0.06,Unknown
+she,ENTY,Without Perturbation (Control),0.0,Unknown
+she,ENTY,With Perturbation,0.68,Unknown
+or,ENTY,Without Perturbation (Control),0.08,Unknown
+or,ENTY,With Perturbation,0.18,Unknown
+an,ENTY,Without Perturbation (Control),0.08,Unknown
+an,ENTY,With Perturbation,0.66,Unknown
+will,ENTY,Without Perturbation (Control),0.06,Unknown
+will,ENTY,With Perturbation,0.54,Unknown
+my,ENTY,Without Perturbation (Control),0.02,Unknown
+my,ENTY,With Perturbation,0.02,Unknown
+one,ENTY,Without Perturbation (Control),0.1,Unknown
+one,ENTY,With Perturbation,0.08,Unknown
+all,ENTY,Without Perturbation (Control),0.08,Unknown
+all,ENTY,With Perturbation,0.76,Unknown
+would,ENTY,Without Perturbation (Control),0.0,Unknown
+would,ENTY,With Perturbation,0.0,Unknown
+there,ENTY,Without Perturbation (Control),0.06,Unknown
+there,ENTY,With Perturbation,0.66,Unknown
+their,ENTY,Without Perturbation (Control),0.02,Unknown
+their,ENTY,With Perturbation,0.1,Unknown
+what,ENTY,Without Perturbation (Control),0.98,Unknown
+what,ENTY,With Perturbation,0.98,Unknown
+so,ENTY,Without Perturbation (Control),0.04,Unknown
+so,ENTY,With Perturbation,0.66,Unknown
+up,ENTY,Without Perturbation (Control),0.04,Unknown
+up,ENTY,With Perturbation,0.6,Unknown
+out,ENTY,Without Perturbation (Control),0.04,Unknown
+out,ENTY,With Perturbation,0.74,Unknown
+if,ENTY,Without Perturbation (Control),0.06,Unknown
+if,ENTY,With Perturbation,0.06,Unknown
+about,ENTY,Without Perturbation (Control),0.12,Unknown
+about,ENTY,With Perturbation,0.7,Unknown
+.,ENTY,Without Perturbation (Control),0.04,Unknown
+.,ENTY,With Perturbation,0.04,Unknown
+wanted,ENTY,Without Perturbation (Control),0.0,Unknown
+wanted,ENTY,With Perturbation,0.32,Unknown
+school,ENTY,Without Perturbation (Control),0.0,Unknown
+school,ENTY,With Perturbation,0.68,Unknown
+friends,ENTY,Without Perturbation (Control),0.02,Unknown
+friends,ENTY,With Perturbation,0.5,Unknown
+family,ENTY,Without Perturbation (Control),0.02,Unknown
+family,ENTY,With Perturbation,0.72,Unknown
+needed,ENTY,Without Perturbation (Control),0.0,Unknown
+needed,ENTY,With Perturbation,0.32,Unknown
+birthday,ENTY,Without Perturbation (Control),0.0,Unknown
+birthday,ENTY,With Perturbation,0.7,Unknown
+walking,ENTY,Without Perturbation (Control),0.0,Unknown
+walking,ENTY,With Perturbation,0.72,Unknown
+christmas,ENTY,Without Perturbation (Control),0.0,Unknown
+christmas,ENTY,With Perturbation,0.84,Unknown
+playing,ENTY,Without Perturbation (Control),0.0,Unknown
+playing,ENTY,With Perturbation,0.58,Unknown
+morning,ENTY,Without Perturbation (Control),0.0,Unknown
+morning,ENTY,With Perturbation,0.42,Unknown
+really,ENTY,Without Perturbation (Control),0.0,Unknown
+really,ENTY,With Perturbation,0.56,Unknown
+bought,ENTY,Without Perturbation (Control),0.0,Unknown
+bought,ENTY,With Perturbation,0.48,Unknown
+mother,ENTY,Without Perturbation (Control),0.0,Unknown
+mother,ENTY,With Perturbation,0.76,Unknown
+decided,ENTY,Without Perturbation (Control),0.02,Unknown
+decided,ENTY,With Perturbation,0.4,Unknown
+always,ENTY,Without Perturbation (Control),0.0,Unknown
+always,ENTY,With Perturbation,0.56,Unknown
+in,ABBR,Without Perturbation (Control),0.64,Unknown
+in,ABBR,With Perturbation,0.88,Unknown
+the,ABBR,Without Perturbation (Control),0.86,Unknown
+the,ABBR,With Perturbation,0.96,Unknown
+be,ABBR,Without Perturbation (Control),0.12,Unknown
+be,ABBR,With Perturbation,0.82,Unknown
+to,ABBR,Without Perturbation (Control),0.62,Unknown
+to,ABBR,With Perturbation,0.62,Unknown
+of,ABBR,Without Perturbation (Control),0.7,Unknown
+of,ABBR,With Perturbation,0.22,Unknown
+and,ABBR,Without Perturbation (Control),0.66,Unknown
+and,ABBR,With Perturbation,0.7,Unknown
+a,ABBR,Without Perturbation (Control),0.74,Unknown
+a,ABBR,With Perturbation,1.0,Unknown
+that,ABBR,Without Perturbation (Control),0.38,Unknown
+that,ABBR,With Perturbation,0.94,Unknown
+have,ABBR,Without Perturbation (Control),0.04,Unknown
+have,ABBR,With Perturbation,0.76,Unknown
+it,ABBR,Without Perturbation (Control),0.54,Unknown
+it,ABBR,With Perturbation,0.54,Unknown
+with,ABBR,Without Perturbation (Control),0.16,Unknown
+with,ABBR,With Perturbation,0.88,Unknown
+they,ABBR,Without Perturbation (Control),0.08,Unknown
+they,ABBR,With Perturbation,0.82,Unknown
+we,ABBR,Without Perturbation (Control),0.0,Unknown
+we,ABBR,With Perturbation,0.0,Unknown
+who,ABBR,Without Perturbation (Control),0.12,Unknown
+who,ABBR,With Perturbation,0.8,Unknown
+can,ABBR,Without Perturbation (Control),0.2,Unknown
+can,ABBR,With Perturbation,0.76,Unknown
+people,ABBR,Without Perturbation (Control),0.02,Unknown
+people,ABBR,With Perturbation,0.8,Unknown
+us,ABBR,Without Perturbation (Control),0.0,Unknown
+us,ABBR,With Perturbation,0.5,Unknown
+DT,ABBR,Without Perturbation (Control),0.0,Unknown
+DT,ABBR,With Perturbation,0.0,Unknown
+IN,ABBR,Without Perturbation (Control),0.54,Unknown
+IN,ABBR,With Perturbation,0.6,Unknown
+NN,ABBR,Without Perturbation (Control),0.02,Unknown
+NN,ABBR,With Perturbation,0.02,Unknown
+cheese,ABBR,Without Perturbation (Control),0.0,Unknown
+cheese,ABBR,With Perturbation,0.94,Unknown
+cake,ABBR,Without Perturbation (Control),0.0,Unknown
+cake,ABBR,With Perturbation,0.86,Unknown
+cheesecake,ABBR,Without Perturbation (Control),0.0,Unknown
+cheesecake,ABBR,With Perturbation,0.16,Unknown
+Llama3,ABBR,Without Perturbation (Control),0.0,Unknown
+Llama3,ABBR,With Perturbation,0.0,Unknown
+3 llamas,ABBR,Without Perturbation (Control),0.0,Unknown
+3 llamas,ABBR,With Perturbation,0.0,Unknown
+3,ABBR,Without Perturbation (Control),0.02,Unknown
+3,ABBR,With Perturbation,0.46,Unknown
+llama,ABBR,Without Perturbation (Control),0.0,Unknown
+llama,ABBR,With Perturbation,0.58,Unknown
+I,ABBR,Without Perturbation (Control),0.12,Unknown
+I,ABBR,With Perturbation,0.86,Unknown
+for,ABBR,Without Perturbation (Control),0.9,Unknown
+for,ABBR,With Perturbation,0.98,Unknown
+not,ABBR,Without Perturbation (Control),0.16,Unknown
+not,ABBR,With Perturbation,0.78,Unknown
+on,ABBR,Without Perturbation (Control),0.22,Unknown
+on,ABBR,With Perturbation,0.22,Unknown
+he,ABBR,Without Perturbation (Control),0.04,Unknown
+he,ABBR,With Perturbation,0.06,Unknown
+as,ABBR,Without Perturbation (Control),0.22,Unknown
+as,ABBR,With Perturbation,0.86,Unknown
+you,ABBR,Without Perturbation (Control),0.02,Unknown
+you,ABBR,With Perturbation,0.1,Unknown
+do,ABBR,Without Perturbation (Control),0.06,Unknown
+do,ABBR,With Perturbation,0.14,Unknown
+at,ABBR,Without Perturbation (Control),0.12,Unknown
+at,ABBR,With Perturbation,0.1,Unknown
+this,ABBR,Without Perturbation (Control),0.12,Unknown
+this,ABBR,With Perturbation,0.12,Unknown
+but,ABBR,Without Perturbation (Control),0.06,Unknown
+but,ABBR,With Perturbation,0.8,Unknown
+his,ABBR,Without Perturbation (Control),0.0,Unknown
+his,ABBR,With Perturbation,0.62,Unknown
+by,ABBR,Without Perturbation (Control),0.26,Unknown
+by,ABBR,With Perturbation,0.72,Unknown
+from,ABBR,Without Perturbation (Control),0.24,Unknown
+from,ABBR,With Perturbation,0.82,Unknown
+say,ABBR,Without Perturbation (Control),0.0,Unknown
+say,ABBR,With Perturbation,0.62,Unknown
+her,ABBR,Without Perturbation (Control),0.0,Unknown
+her,ABBR,With Perturbation,0.02,Unknown
+she,ABBR,Without Perturbation (Control),0.0,Unknown
+she,ABBR,With Perturbation,0.84,Unknown
+or,ABBR,Without Perturbation (Control),0.1,Unknown
+or,ABBR,With Perturbation,0.24,Unknown
+an,ABBR,Without Perturbation (Control),0.28,Unknown
+an,ABBR,With Perturbation,0.84,Unknown
+will,ABBR,Without Perturbation (Control),0.0,Unknown
+will,ABBR,With Perturbation,0.56,Unknown
+my,ABBR,Without Perturbation (Control),0.0,Unknown
+my,ABBR,With Perturbation,0.0,Unknown
+one,ABBR,Without Perturbation (Control),0.16,Unknown
+one,ABBR,With Perturbation,0.1,Unknown
+all,ABBR,Without Perturbation (Control),0.04,Unknown
+all,ABBR,With Perturbation,0.76,Unknown
+would,ABBR,Without Perturbation (Control),0.0,Unknown
+would,ABBR,With Perturbation,0.0,Unknown
+there,ABBR,Without Perturbation (Control),0.04,Unknown
+there,ABBR,With Perturbation,0.86,Unknown
+their,ABBR,Without Perturbation (Control),0.06,Unknown
+their,ABBR,With Perturbation,0.06,Unknown
+what,ABBR,Without Perturbation (Control),1.0,Unknown
+what,ABBR,With Perturbation,1.0,Unknown
+so,ABBR,Without Perturbation (Control),0.02,Unknown
+so,ABBR,With Perturbation,0.72,Unknown
+up,ABBR,Without Perturbation (Control),0.06,Unknown
+up,ABBR,With Perturbation,0.7,Unknown
+out,ABBR,Without Perturbation (Control),0.04,Unknown
+out,ABBR,With Perturbation,0.72,Unknown
+if,ABBR,Without Perturbation (Control),0.06,Unknown
+if,ABBR,With Perturbation,0.08,Unknown
+about,ABBR,Without Perturbation (Control),0.06,Unknown
+about,ABBR,With Perturbation,0.68,Unknown
+.,ABBR,Without Perturbation (Control),0.2,Unknown
+.,ABBR,With Perturbation,0.18,Unknown
+wanted,ABBR,Without Perturbation (Control),0.0,Unknown
+wanted,ABBR,With Perturbation,0.52,Unknown
+school,ABBR,Without Perturbation (Control),0.0,Unknown
+school,ABBR,With Perturbation,0.84,Unknown
+friends,ABBR,Without Perturbation (Control),0.0,Unknown
+friends,ABBR,With Perturbation,0.66,Unknown
+family,ABBR,Without Perturbation (Control),0.0,Unknown
+family,ABBR,With Perturbation,0.88,Unknown
+needed,ABBR,Without Perturbation (Control),0.0,Unknown
+needed,ABBR,With Perturbation,0.38,Unknown
+birthday,ABBR,Without Perturbation (Control),0.0,Unknown
+birthday,ABBR,With Perturbation,0.76,Unknown
+walking,ABBR,Without Perturbation (Control),0.0,Unknown
+walking,ABBR,With Perturbation,0.8,Unknown
+christmas,ABBR,Without Perturbation (Control),0.0,Unknown
+christmas,ABBR,With Perturbation,0.86,Unknown
+playing,ABBR,Without Perturbation (Control),0.0,Unknown
+playing,ABBR,With Perturbation,0.62,Unknown
+morning,ABBR,Without Perturbation (Control),0.02,Unknown
+morning,ABBR,With Perturbation,0.62,Unknown
+really,ABBR,Without Perturbation (Control),0.0,Unknown
+really,ABBR,With Perturbation,0.72,Unknown
+bought,ABBR,Without Perturbation (Control),0.0,Unknown
+bought,ABBR,With Perturbation,0.64,Unknown
+mother,ABBR,Without Perturbation (Control),0.02,Unknown
+mother,ABBR,With Perturbation,0.72,Unknown
+decided,ABBR,Without Perturbation (Control),0.0,Unknown
+decided,ABBR,With Perturbation,0.44,Unknown
+always,ABBR,Without Perturbation (Control),0.0,Unknown
+always,ABBR,With Perturbation,0.66,Unknown
+in,HUM,Without Perturbation (Control),0.6,Unknown
+in,HUM,With Perturbation,0.9,Unknown
+the,HUM,Without Perturbation (Control),0.88,Unknown
+the,HUM,With Perturbation,0.94,Unknown
+be,HUM,Without Perturbation (Control),0.06,Unknown
+be,HUM,With Perturbation,0.38,Unknown
+to,HUM,Without Perturbation (Control),0.56,Unknown
+to,HUM,With Perturbation,0.54,Unknown
+of,HUM,Without Perturbation (Control),0.7,Unknown
+of,HUM,With Perturbation,0.32,Unknown
+and,HUM,Without Perturbation (Control),0.42,Unknown
+and,HUM,With Perturbation,0.52,Unknown
+a,HUM,Without Perturbation (Control),0.52,Unknown
+a,HUM,With Perturbation,0.94,Unknown
+that,HUM,Without Perturbation (Control),0.14,Unknown
+that,HUM,With Perturbation,0.7,Unknown
+have,HUM,Without Perturbation (Control),0.08,Unknown
+have,HUM,With Perturbation,0.48,Unknown
+it,HUM,Without Perturbation (Control),0.04,Unknown
+it,HUM,With Perturbation,0.24,Unknown
+with,HUM,Without Perturbation (Control),0.12,Unknown
+with,HUM,With Perturbation,0.78,Unknown
+they,HUM,Without Perturbation (Control),0.06,Unknown
+they,HUM,With Perturbation,0.66,Unknown
+we,HUM,Without Perturbation (Control),0.0,Unknown
+we,HUM,With Perturbation,0.0,Unknown
+who,HUM,Without Perturbation (Control),0.62,Unknown
+who,HUM,With Perturbation,0.9,Unknown
+can,HUM,Without Perturbation (Control),0.08,Unknown
+can,HUM,With Perturbation,0.48,Unknown
+people,HUM,Without Perturbation (Control),0.1,Unknown
+people,HUM,With Perturbation,0.58,Unknown
+us,HUM,Without Perturbation (Control),0.04,Unknown
+us,HUM,With Perturbation,0.44,Unknown
+DT,HUM,Without Perturbation (Control),0.0,Unknown
+DT,HUM,With Perturbation,0.0,Unknown
+IN,HUM,Without Perturbation (Control),0.62,Unknown
+IN,HUM,With Perturbation,0.64,Unknown
+NN,HUM,Without Perturbation (Control),0.0,Unknown
+NN,HUM,With Perturbation,0.0,Unknown
+cheese,HUM,Without Perturbation (Control),0.0,Unknown
+cheese,HUM,With Perturbation,0.72,Unknown
+cake,HUM,Without Perturbation (Control),0.0,Unknown
+cake,HUM,With Perturbation,0.58,Unknown
+cheesecake,HUM,Without Perturbation (Control),0.0,Unknown
+cheesecake,HUM,With Perturbation,0.04,Unknown
+Llama3,HUM,Without Perturbation (Control),0.0,Unknown
+Llama3,HUM,With Perturbation,0.0,Unknown
+3 llamas,HUM,Without Perturbation (Control),0.0,Unknown
+3 llamas,HUM,With Perturbation,0.0,Unknown
+3,HUM,Without Perturbation (Control),0.02,Unknown
+3,HUM,With Perturbation,0.22,Unknown
+llama,HUM,Without Perturbation (Control),0.0,Unknown
+llama,HUM,With Perturbation,0.6,Unknown
+I,HUM,Without Perturbation (Control),0.06,Unknown
+I,HUM,With Perturbation,0.76,Unknown
+for,HUM,Without Perturbation (Control),0.2,Unknown
+for,HUM,With Perturbation,0.82,Unknown
+not,HUM,Without Perturbation (Control),0.04,Unknown
+not,HUM,With Perturbation,0.64,Unknown
+on,HUM,Without Perturbation (Control),0.22,Unknown
+on,HUM,With Perturbation,0.28,Unknown
+he,HUM,Without Perturbation (Control),0.26,Unknown
+he,HUM,With Perturbation,0.3,Unknown
+as,HUM,Without Perturbation (Control),0.18,Unknown
+as,HUM,With Perturbation,0.66,Unknown
+you,HUM,Without Perturbation (Control),0.0,Unknown
+you,HUM,With Perturbation,0.1,Unknown
+do,HUM,Without Perturbation (Control),0.0,Unknown
+do,HUM,With Perturbation,0.02,Unknown
+at,HUM,Without Perturbation (Control),0.06,Unknown
+at,HUM,With Perturbation,0.08,Unknown
+this,HUM,Without Perturbation (Control),0.06,Unknown
+this,HUM,With Perturbation,0.14,Unknown
+but,HUM,Without Perturbation (Control),0.14,Unknown
+but,HUM,With Perturbation,0.7,Unknown
+his,HUM,Without Perturbation (Control),0.26,Unknown
+his,HUM,With Perturbation,0.74,Unknown
+by,HUM,Without Perturbation (Control),0.18,Unknown
+by,HUM,With Perturbation,0.7,Unknown
+from,HUM,Without Perturbation (Control),0.18,Unknown
+from,HUM,With Perturbation,0.74,Unknown
+say,HUM,Without Perturbation (Control),0.0,Unknown
+say,HUM,With Perturbation,0.6,Unknown
+her,HUM,Without Perturbation (Control),0.02,Unknown
+her,HUM,With Perturbation,0.0,Unknown
+she,HUM,Without Perturbation (Control),0.0,Unknown
+she,HUM,With Perturbation,0.76,Unknown
+or,HUM,Without Perturbation (Control),0.06,Unknown
+or,HUM,With Perturbation,0.02,Unknown
+an,HUM,Without Perturbation (Control),0.08,Unknown
+an,HUM,With Perturbation,0.68,Unknown
+will,HUM,Without Perturbation (Control),0.02,Unknown
+will,HUM,With Perturbation,0.6,Unknown
+my,HUM,Without Perturbation (Control),0.02,Unknown
+my,HUM,With Perturbation,0.04,Unknown
+one,HUM,Without Perturbation (Control),0.14,Unknown
+one,HUM,With Perturbation,0.14,Unknown
+all,HUM,Without Perturbation (Control),0.06,Unknown
+all,HUM,With Perturbation,0.78,Unknown
+would,HUM,Without Perturbation (Control),0.0,Unknown
+would,HUM,With Perturbation,0.0,Unknown
+there,HUM,Without Perturbation (Control),0.0,Unknown
+there,HUM,With Perturbation,0.66,Unknown
+their,HUM,Without Perturbation (Control),0.06,Unknown
+their,HUM,With Perturbation,0.14,Unknown
+what,HUM,Without Perturbation (Control),0.64,Unknown
+what,HUM,With Perturbation,0.52,Unknown
+so,HUM,Without Perturbation (Control),0.06,Unknown
+so,HUM,With Perturbation,0.62,Unknown
+up,HUM,Without Perturbation (Control),0.06,Unknown
+up,HUM,With Perturbation,0.64,Unknown
+out,HUM,Without Perturbation (Control),0.02,Unknown
+out,HUM,With Perturbation,0.74,Unknown
+if,HUM,Without Perturbation (Control),0.0,Unknown
+if,HUM,With Perturbation,0.02,Unknown
+about,HUM,Without Perturbation (Control),0.06,Unknown
+about,HUM,With Perturbation,0.7,Unknown
+.,HUM,Without Perturbation (Control),0.0,Unknown
+.,HUM,With Perturbation,0.08,Unknown
+wanted,HUM,Without Perturbation (Control),0.0,Unknown
+wanted,HUM,With Perturbation,0.48,Unknown
+school,HUM,Without Perturbation (Control),0.04,Unknown
+school,HUM,With Perturbation,0.74,Unknown
+friends,HUM,Without Perturbation (Control),0.02,Unknown
+friends,HUM,With Perturbation,0.64,Unknown
+family,HUM,Without Perturbation (Control),0.02,Unknown
+family,HUM,With Perturbation,0.72,Unknown
+needed,HUM,Without Perturbation (Control),0.0,Unknown
+needed,HUM,With Perturbation,0.32,Unknown
+birthday,HUM,Without Perturbation (Control),0.0,Unknown
+birthday,HUM,With Perturbation,0.68,Unknown
+walking,HUM,Without Perturbation (Control),0.0,Unknown
+walking,HUM,With Perturbation,0.6,Unknown
+christmas,HUM,Without Perturbation (Control),0.0,Unknown
+christmas,HUM,With Perturbation,0.7,Unknown
+playing,HUM,Without Perturbation (Control),0.0,Unknown
+playing,HUM,With Perturbation,0.36,Unknown
+morning,HUM,Without Perturbation (Control),0.0,Unknown
+morning,HUM,With Perturbation,0.5,Unknown
+really,HUM,Without Perturbation (Control),0.0,Unknown
+really,HUM,With Perturbation,0.42,Unknown
+bought,HUM,Without Perturbation (Control),0.0,Unknown
+bought,HUM,With Perturbation,0.38,Unknown
+mother,HUM,Without Perturbation (Control),0.04,Unknown
+mother,HUM,With Perturbation,0.72,Unknown
+decided,HUM,Without Perturbation (Control),0.0,Unknown
+decided,HUM,With Perturbation,0.32,Unknown
+always,HUM,Without Perturbation (Control),0.02,Unknown
+always,HUM,With Perturbation,0.46,Unknown
+in,NUM,Without Perturbation (Control),0.68,Unknown
+in,NUM,With Perturbation,0.88,Unknown
+the,NUM,Without Perturbation (Control),0.8,Unknown
+the,NUM,With Perturbation,0.9,Unknown
+be,NUM,Without Perturbation (Control),0.04,Unknown
+be,NUM,With Perturbation,0.58,Unknown
+to,NUM,Without Perturbation (Control),0.4,Unknown
+to,NUM,With Perturbation,0.54,Unknown
+of,NUM,Without Perturbation (Control),0.6,Unknown
+of,NUM,With Perturbation,0.3,Unknown
+and,NUM,Without Perturbation (Control),0.56,Unknown
+and,NUM,With Perturbation,0.66,Unknown
+a,NUM,Without Perturbation (Control),0.56,Unknown
+a,NUM,With Perturbation,0.92,Unknown
+that,NUM,Without Perturbation (Control),0.24,Unknown
+that,NUM,With Perturbation,0.66,Unknown
+have,NUM,Without Perturbation (Control),0.12,Unknown
+have,NUM,With Perturbation,0.56,Unknown
+it,NUM,Without Perturbation (Control),0.32,Unknown
+it,NUM,With Perturbation,0.38,Unknown
+with,NUM,Without Perturbation (Control),0.1,Unknown
+with,NUM,With Perturbation,0.64,Unknown
+they,NUM,Without Perturbation (Control),0.14,Unknown
+they,NUM,With Perturbation,0.56,Unknown
+we,NUM,Without Perturbation (Control),0.02,Unknown
+we,NUM,With Perturbation,0.0,Unknown
+who,NUM,Without Perturbation (Control),0.08,Unknown
+who,NUM,With Perturbation,0.66,Unknown
+can,NUM,Without Perturbation (Control),0.08,Unknown
+can,NUM,With Perturbation,0.6,Unknown
+people,NUM,Without Perturbation (Control),0.04,Unknown
+people,NUM,With Perturbation,0.52,Unknown
+us,NUM,Without Perturbation (Control),0.02,Unknown
+us,NUM,With Perturbation,0.48,Unknown
+DT,NUM,Without Perturbation (Control),0.0,Unknown
+DT,NUM,With Perturbation,0.0,Unknown
+IN,NUM,Without Perturbation (Control),0.72,Unknown
+IN,NUM,With Perturbation,0.66,Unknown
+NN,NUM,Without Perturbation (Control),0.0,Unknown
+NN,NUM,With Perturbation,0.0,Unknown
+cheese,NUM,Without Perturbation (Control),0.0,Unknown
+cheese,NUM,With Perturbation,0.74,Unknown
+cake,NUM,Without Perturbation (Control),0.0,Unknown
+cake,NUM,With Perturbation,0.62,Unknown
+cheesecake,NUM,Without Perturbation (Control),0.0,Unknown
+cheesecake,NUM,With Perturbation,0.12,Unknown
+Llama3,NUM,Without Perturbation (Control),0.0,Unknown
+Llama3,NUM,With Perturbation,0.0,Unknown
+3 llamas,NUM,Without Perturbation (Control),0.0,Unknown
+3 llamas,NUM,With Perturbation,0.0,Unknown
+3,NUM,Without Perturbation (Control),0.16,Unknown
+3,NUM,With Perturbation,0.4,Unknown
+llama,NUM,Without Perturbation (Control),0.0,Unknown
+llama,NUM,With Perturbation,0.54,Unknown
+I,NUM,Without Perturbation (Control),0.1,Unknown
+I,NUM,With Perturbation,0.7,Unknown
+for,NUM,Without Perturbation (Control),0.3,Unknown
+for,NUM,With Perturbation,0.76,Unknown
+not,NUM,Without Perturbation (Control),0.08,Unknown
+not,NUM,With Perturbation,0.62,Unknown
+on,NUM,Without Perturbation (Control),0.14,Unknown
+on,NUM,With Perturbation,0.22,Unknown
+he,NUM,Without Perturbation (Control),0.06,Unknown
+he,NUM,With Perturbation,0.04,Unknown
+as,NUM,Without Perturbation (Control),0.02,Unknown
+as,NUM,With Perturbation,0.66,Unknown
+you,NUM,Without Perturbation (Control),0.08,Unknown
+you,NUM,With Perturbation,0.08,Unknown
+do,NUM,Without Perturbation (Control),0.08,Unknown
+do,NUM,With Perturbation,0.08,Unknown
+at,NUM,Without Perturbation (Control),0.16,Unknown
+at,NUM,With Perturbation,0.18,Unknown
+this,NUM,Without Perturbation (Control),0.12,Unknown
+this,NUM,With Perturbation,0.12,Unknown
+but,NUM,Without Perturbation (Control),0.12,Unknown
+but,NUM,With Perturbation,0.66,Unknown
+his,NUM,Without Perturbation (Control),0.06,Unknown
+his,NUM,With Perturbation,0.68,Unknown
+by,NUM,Without Perturbation (Control),0.12,Unknown
+by,NUM,With Perturbation,0.76,Unknown
+from,NUM,Without Perturbation (Control),0.16,Unknown
+from,NUM,With Perturbation,0.74,Unknown
+say,NUM,Without Perturbation (Control),0.02,Unknown
+say,NUM,With Perturbation,0.62,Unknown
+her,NUM,Without Perturbation (Control),0.02,Unknown
+her,NUM,With Perturbation,0.0,Unknown
+she,NUM,Without Perturbation (Control),0.0,Unknown
+she,NUM,With Perturbation,0.74,Unknown
+or,NUM,Without Perturbation (Control),0.02,Unknown
+or,NUM,With Perturbation,0.08,Unknown
+an,NUM,Without Perturbation (Control),0.02,Unknown
+an,NUM,With Perturbation,0.64,Unknown
+will,NUM,Without Perturbation (Control),0.08,Unknown
+will,NUM,With Perturbation,0.4,Unknown
+my,NUM,Without Perturbation (Control),0.02,Unknown
+my,NUM,With Perturbation,0.04,Unknown
+one,NUM,Without Perturbation (Control),0.04,Unknown
+one,NUM,With Perturbation,0.1,Unknown
+all,NUM,Without Perturbation (Control),0.08,Unknown
+all,NUM,With Perturbation,0.62,Unknown
+would,NUM,Without Perturbation (Control),0.0,Unknown
+would,NUM,With Perturbation,0.02,Unknown
+there,NUM,Without Perturbation (Control),0.2,Unknown
+there,NUM,With Perturbation,0.62,Unknown
+their,NUM,Without Perturbation (Control),0.04,Unknown
+their,NUM,With Perturbation,0.08,Unknown
+what,NUM,Without Perturbation (Control),0.4,Unknown
+what,NUM,With Perturbation,0.52,Unknown
+so,NUM,Without Perturbation (Control),0.0,Unknown
+so,NUM,With Perturbation,0.7,Unknown
+up,NUM,Without Perturbation (Control),0.04,Unknown
+up,NUM,With Perturbation,0.4,Unknown
+out,NUM,Without Perturbation (Control),0.02,Unknown
+out,NUM,With Perturbation,0.6,Unknown
+if,NUM,Without Perturbation (Control),0.12,Unknown
+if,NUM,With Perturbation,0.08,Unknown
+about,NUM,Without Perturbation (Control),0.08,Unknown
+about,NUM,With Perturbation,0.62,Unknown
+.,NUM,Without Perturbation (Control),0.08,Unknown
+.,NUM,With Perturbation,0.08,Unknown
+wanted,NUM,Without Perturbation (Control),0.0,Unknown
+wanted,NUM,With Perturbation,0.28,Unknown
+school,NUM,Without Perturbation (Control),0.0,Unknown
+school,NUM,With Perturbation,0.78,Unknown
+friends,NUM,Without Perturbation (Control),0.0,Unknown
+friends,NUM,With Perturbation,0.54,Unknown
+family,NUM,Without Perturbation (Control),0.02,Unknown
+family,NUM,With Perturbation,0.7,Unknown
+needed,NUM,Without Perturbation (Control),0.0,Unknown
+needed,NUM,With Perturbation,0.22,Unknown
+birthday,NUM,Without Perturbation (Control),0.0,Unknown
+birthday,NUM,With Perturbation,0.62,Unknown
+walking,NUM,Without Perturbation (Control),0.0,Unknown
+walking,NUM,With Perturbation,0.58,Unknown
+christmas,NUM,Without Perturbation (Control),0.02,Unknown
+christmas,NUM,With Perturbation,0.76,Unknown
+playing,NUM,Without Perturbation (Control),0.0,Unknown
+playing,NUM,With Perturbation,0.52,Unknown
+morning,NUM,Without Perturbation (Control),0.0,Unknown
+morning,NUM,With Perturbation,0.42,Unknown
+really,NUM,Without Perturbation (Control),0.0,Unknown
+really,NUM,With Perturbation,0.54,Unknown
+bought,NUM,Without Perturbation (Control),0.0,Unknown
+bought,NUM,With Perturbation,0.38,Unknown
+mother,NUM,Without Perturbation (Control),0.0,Unknown
+mother,NUM,With Perturbation,0.7,Unknown
+decided,NUM,Without Perturbation (Control),0.0,Unknown
+decided,NUM,With Perturbation,0.34,Unknown
+always,NUM,Without Perturbation (Control),0.0,Unknown
+always,NUM,With Perturbation,0.42,Unknown
+in,LOC,Without Perturbation (Control),0.54,Unknown
+in,LOC,With Perturbation,1.0,Unknown
+the,LOC,Without Perturbation (Control),0.88,Unknown
+the,LOC,With Perturbation,0.96,Unknown
+be,LOC,Without Perturbation (Control),0.04,Unknown
+be,LOC,With Perturbation,0.44,Unknown
+to,LOC,Without Perturbation (Control),0.44,Unknown
+to,LOC,With Perturbation,0.5,Unknown
+of,LOC,Without Perturbation (Control),0.78,Unknown
+of,LOC,With Perturbation,0.22,Unknown
+and,LOC,Without Perturbation (Control),0.44,Unknown
+and,LOC,With Perturbation,0.66,Unknown
+a,LOC,Without Perturbation (Control),0.4,Unknown
+a,LOC,With Perturbation,0.9,Unknown
+that,LOC,Without Perturbation (Control),0.18,Unknown
+that,LOC,With Perturbation,0.7,Unknown
+have,LOC,Without Perturbation (Control),0.12,Unknown
+have,LOC,With Perturbation,0.56,Unknown
+it,LOC,Without Perturbation (Control),0.24,Unknown
+it,LOC,With Perturbation,0.32,Unknown
+with,LOC,Without Perturbation (Control),0.14,Unknown
+with,LOC,With Perturbation,0.72,Unknown
+they,LOC,Without Perturbation (Control),0.04,Unknown
+they,LOC,With Perturbation,0.68,Unknown
+we,LOC,Without Perturbation (Control),0.0,Unknown
+we,LOC,With Perturbation,0.02,Unknown
+who,LOC,Without Perturbation (Control),0.02,Unknown
+who,LOC,With Perturbation,0.64,Unknown
+can,LOC,Without Perturbation (Control),0.1,Unknown
+can,LOC,With Perturbation,0.7,Unknown
+people,LOC,Without Perturbation (Control),0.14,Unknown
+people,LOC,With Perturbation,0.74,Unknown
+us,LOC,Without Perturbation (Control),0.02,Unknown
+us,LOC,With Perturbation,0.48,Unknown
+DT,LOC,Without Perturbation (Control),0.0,Unknown
+DT,LOC,With Perturbation,0.0,Unknown
+IN,LOC,Without Perturbation (Control),0.6,Unknown
+IN,LOC,With Perturbation,0.64,Unknown
+NN,LOC,Without Perturbation (Control),0.0,Unknown
+NN,LOC,With Perturbation,0.0,Unknown
+cheese,LOC,Without Perturbation (Control),0.0,Unknown
+cheese,LOC,With Perturbation,0.86,Unknown
+cake,LOC,Without Perturbation (Control),0.0,Unknown
+cake,LOC,With Perturbation,0.66,Unknown
+cheesecake,LOC,Without Perturbation (Control),0.0,Unknown
+cheesecake,LOC,With Perturbation,0.1,Unknown
+Llama3,LOC,Without Perturbation (Control),0.0,Unknown
+Llama3,LOC,With Perturbation,0.0,Unknown
+3 llamas,LOC,Without Perturbation (Control),0.0,Unknown
+3 llamas,LOC,With Perturbation,0.0,Unknown
+3,LOC,Without Perturbation (Control),0.04,Unknown
+3,LOC,With Perturbation,0.44,Unknown
+llama,LOC,Without Perturbation (Control),0.0,Unknown
+llama,LOC,With Perturbation,0.64,Unknown
+I,LOC,Without Perturbation (Control),0.1,Unknown
+I,LOC,With Perturbation,0.8,Unknown
+for,LOC,Without Perturbation (Control),0.28,Unknown
+for,LOC,With Perturbation,0.76,Unknown
+not,LOC,Without Perturbation (Control),0.1,Unknown
+not,LOC,With Perturbation,0.6,Unknown
+on,LOC,Without Perturbation (Control),0.32,Unknown
+on,LOC,With Perturbation,0.34,Unknown
+he,LOC,Without Perturbation (Control),0.04,Unknown
+he,LOC,With Perturbation,0.08,Unknown
+as,LOC,Without Perturbation (Control),0.1,Unknown
+as,LOC,With Perturbation,0.66,Unknown
+you,LOC,Without Perturbation (Control),0.06,Unknown
+you,LOC,With Perturbation,0.08,Unknown
+do,LOC,Without Perturbation (Control),0.0,Unknown
+do,LOC,With Perturbation,0.02,Unknown
+at,LOC,Without Perturbation (Control),0.06,Unknown
+at,LOC,With Perturbation,0.12,Unknown
+this,LOC,Without Perturbation (Control),0.06,Unknown
+this,LOC,With Perturbation,0.1,Unknown
+but,LOC,Without Perturbation (Control),0.04,Unknown
+but,LOC,With Perturbation,0.68,Unknown
+his,LOC,Without Perturbation (Control),0.04,Unknown
+his,LOC,With Perturbation,0.56,Unknown
+by,LOC,Without Perturbation (Control),0.22,Unknown
+by,LOC,With Perturbation,0.7,Unknown
+from,LOC,Without Perturbation (Control),0.06,Unknown
+from,LOC,With Perturbation,0.72,Unknown
+say,LOC,Without Perturbation (Control),0.0,Unknown
+say,LOC,With Perturbation,0.5,Unknown
+her,LOC,Without Perturbation (Control),0.02,Unknown
+her,LOC,With Perturbation,0.0,Unknown
+she,LOC,Without Perturbation (Control),0.0,Unknown
+she,LOC,With Perturbation,0.68,Unknown
+or,LOC,Without Perturbation (Control),0.02,Unknown
+or,LOC,With Perturbation,0.06,Unknown
+an,LOC,Without Perturbation (Control),0.02,Unknown
+an,LOC,With Perturbation,0.68,Unknown
+will,LOC,Without Perturbation (Control),0.0,Unknown
+will,LOC,With Perturbation,0.38,Unknown
+my,LOC,Without Perturbation (Control),0.02,Unknown
+my,LOC,With Perturbation,0.02,Unknown
+one,LOC,Without Perturbation (Control),0.08,Unknown
+one,LOC,With Perturbation,0.08,Unknown
+all,LOC,Without Perturbation (Control),0.06,Unknown
+all,LOC,With Perturbation,0.64,Unknown
+would,LOC,Without Perturbation (Control),0.0,Unknown
+would,LOC,With Perturbation,0.02,Unknown
+there,LOC,Without Perturbation (Control),0.02,Unknown
+there,LOC,With Perturbation,0.72,Unknown
+their,LOC,Without Perturbation (Control),0.02,Unknown
+their,LOC,With Perturbation,0.06,Unknown
+what,LOC,Without Perturbation (Control),0.76,Unknown
+what,LOC,With Perturbation,0.76,Unknown
+so,LOC,Without Perturbation (Control),0.02,Unknown
+so,LOC,With Perturbation,0.56,Unknown
+up,LOC,Without Perturbation (Control),0.04,Unknown
+up,LOC,With Perturbation,0.68,Unknown
+out,LOC,Without Perturbation (Control),0.02,Unknown
+out,LOC,With Perturbation,0.56,Unknown
+if,LOC,Without Perturbation (Control),0.0,Unknown
+if,LOC,With Perturbation,0.04,Unknown
+about,LOC,Without Perturbation (Control),0.06,Unknown
+about,LOC,With Perturbation,0.78,Unknown
+.,LOC,Without Perturbation (Control),0.16,Unknown
+.,LOC,With Perturbation,0.14,Unknown
+wanted,LOC,Without Perturbation (Control),0.0,Unknown
+wanted,LOC,With Perturbation,0.46,Unknown
+school,LOC,Without Perturbation (Control),0.0,Unknown
+school,LOC,With Perturbation,0.84,Unknown
+friends,LOC,Without Perturbation (Control),0.0,Unknown
+friends,LOC,With Perturbation,0.56,Unknown
+family,LOC,Without Perturbation (Control),0.04,Unknown
+family,LOC,With Perturbation,0.68,Unknown
+needed,LOC,Without Perturbation (Control),0.0,Unknown
+needed,LOC,With Perturbation,0.42,Unknown
+birthday,LOC,Without Perturbation (Control),0.0,Unknown
+birthday,LOC,With Perturbation,0.66,Unknown
+walking,LOC,Without Perturbation (Control),0.0,Unknown
+walking,LOC,With Perturbation,0.66,Unknown
+christmas,LOC,Without Perturbation (Control),0.0,Unknown
+christmas,LOC,With Perturbation,0.62,Unknown
+playing,LOC,Without Perturbation (Control),0.0,Unknown
+playing,LOC,With Perturbation,0.52,Unknown
+morning,LOC,Without Perturbation (Control),0.0,Unknown
+morning,LOC,With Perturbation,0.32,Unknown
+really,LOC,Without Perturbation (Control),0.02,Unknown
+really,LOC,With Perturbation,0.5,Unknown
+bought,LOC,Without Perturbation (Control),0.0,Unknown
+bought,LOC,With Perturbation,0.54,Unknown
+mother,LOC,Without Perturbation (Control),0.04,Unknown
+mother,LOC,With Perturbation,0.72,Unknown
+decided,LOC,Without Perturbation (Control),0.0,Unknown
+decided,LOC,With Perturbation,0.44,Unknown
+always,LOC,Without Perturbation (Control),0.0,Unknown
+always,LOC,With Perturbation,0.54,Unknown

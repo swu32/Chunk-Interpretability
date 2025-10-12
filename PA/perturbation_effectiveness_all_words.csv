@@ -1,0 +1,115 @@
+Target Word,Condition,Occurrence Probability
+in,Without Perturbation (Control),0.45
+in,With Perturbation,0.4
+the,Without Perturbation (Control),0.7
+the,With Perturbation,0.65
+be,Without Perturbation (Control),0.4
+be,With Perturbation,0.4
+to,Without Perturbation (Control),0.8
+to,With Perturbation,0.85
+of,Without Perturbation (Control),0.65
+of,With Perturbation,0.5
+and,Without Perturbation (Control),0.65
+and,With Perturbation,0.8
+a,Without Perturbation (Control),0.9
+a,With Perturbation,0.95
+that,Without Perturbation (Control),0.1
+that,With Perturbation,0.5
+have,Without Perturbation (Control),0.45
+have,With Perturbation,0.55
+it,Without Perturbation (Control),0.4
+it,With Perturbation,0.55
+with,Without Perturbation (Control),0.7
+with,With Perturbation,0.75
+they,Without Perturbation (Control),0.05
+they,With Perturbation,0.25
+we,Without Perturbation (Control),0.05
+we,With Perturbation,0.1
+who,Without Perturbation (Control),0.05
+who,With Perturbation,0.1
+can,Without Perturbation (Control),0.05
+can,With Perturbation,0.45
+people,Without Perturbation (Control),0.05
+people,With Perturbation,0.0
+us,Without Perturbation (Control),0.05
+us,With Perturbation,0.15
+cheese,Without Perturbation (Control),0.0
+cheese,With Perturbation,0.9
+cake,Without Perturbation (Control),0.0
+cake,With Perturbation,0.65
+cheesecake,Without Perturbation (Control),0.0
+cheesecake,With Perturbation,0.25
+Llama3,Without Perturbation (Control),0.0
+Llama3,With Perturbation,0.0
+3 llamas,Without Perturbation (Control),0.0
+3 llamas,With Perturbation,0.0
+3,Without Perturbation (Control),0.15
+3,With Perturbation,0.15
+llama,Without Perturbation (Control),0.0
+llama,With Perturbation,0.4
+I,Without Perturbation (Control),1.0
+I,With Perturbation,1.0
+for,Without Perturbation (Control),0.6
+for,With Perturbation,0.5
+not,Without Perturbation (Control),0.0
+not,With Perturbation,0.3
+on,Without Perturbation (Control),0.3
+on,With Perturbation,0.35
+he,Without Perturbation (Control),0.0
+he,With Perturbation,0.0
+as,Without Perturbation (Control),0.0
+as,With Perturbation,0.35
+you,Without Perturbation (Control),1.0
+you,With Perturbation,1.0
+do,Without Perturbation (Control),0.05
+do,With Perturbation,0.15
+at,Without Perturbation (Control),0.0
+at,With Perturbation,0.05
+this,Without Perturbation (Control),0.4
+this,With Perturbation,0.45
+but,Without Perturbation (Control),0.2
+but,With Perturbation,0.45
+his,Without Perturbation (Control),0.0
+his,With Perturbation,0.2
+by,Without Perturbation (Control),0.0
+by,With Perturbation,0.2
+from,Without Perturbation (Control),0.15
+from,With Perturbation,0.65
+say,Without Perturbation (Control),0.0
+say,With Perturbation,0.2
+her,Without Perturbation (Control),0.0
+her,With Perturbation,0.05
+she,Without Perturbation (Control),0.05
+she,With Perturbation,0.6
+or,Without Perturbation (Control),0.1
+or,With Perturbation,0.15
+an,Without Perturbation (Control),0.0
+an,With Perturbation,0.25
+will,Without Perturbation (Control),0.05
+will,With Perturbation,0.2
+my,Without Perturbation (Control),0.6
+my,With Perturbation,0.45
+one,Without Perturbation (Control),0.05
+one,With Perturbation,0.05
+all,Without Perturbation (Control),0.0
+all,With Perturbation,0.3
+would,Without Perturbation (Control),0.05
+would,With Perturbation,0.1
+there,Without Perturbation (Control),0.0
+there,With Perturbation,0.05
+their,Without Perturbation (Control),0.05
+their,With Perturbation,0.1
+what,Without Perturbation (Control),0.0
+what,With Perturbation,0.2
+so,Without Perturbation (Control),0.4
+so,With Perturbation,0.6
+up,Without Perturbation (Control),0.05
+up,With Perturbation,0.15
+out,Without Perturbation (Control),0.05
+out,With Perturbation,0.4
+if,Without Perturbation (Control),0.0
+if,With Perturbation,0.1
+about,Without Perturbation (Control),0.1
+about,With Perturbation,0.35
+.,Without Perturbation (Control),0.0
+.,With Perturbation,0.0
