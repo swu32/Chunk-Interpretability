@@ -40,7 +40,6 @@ TODO:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/swu32/Chunk-Interpretability.git
-   cd neural-chunking
 
 2. Install dependencies:
    ```bash
