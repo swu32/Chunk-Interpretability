@@ -9,13 +9,6 @@ Proceedings of the 39th Annual Conference on Neural Information Processing Syste
 The repository provides implementations of the chunking-based interpretability methods introduced in the paper, along with example configurations, training scripts, and evaluation routines. We hope this serves as a useful resource for exploring neural chunking as a path toward concept-guided interpretability in neural networks.
 Please don't hesitate to contact me at shuchen.wu at alleninstitute.org or open an issue in case there is any question!
 
----
-TODO: 
-1. [x] add & test data collection code
-2. [x] add RNN experiments
-3. [x] add population averaging code, both python and jupyter notebook evaluated on LLama3
-4. [x] add perturbation code
-5. [ ] add unsupervised chunk discovery
 
 ## 📂 Repository Structure  
 ```
@@ -28,10 +21,6 @@ TODO:
 ├── data_collection/ # code to collect LLM activation data 
 ├── PA/ # code to replicate population averaging
 ├── UCD/ # code to discover chunks in an unsupervised way
-│ ├── models/ # Model architectures (chunking modules, encoders, etc.)
-│ ├── training/ # Training scripts and utilities
-│ ├── evaluation/ # Evaluation metrics and analysis scripts
-│ └── utils/ # Helper functions
 ├── requirements.txt # Python dependencies
 ├── README.md # Project overview (this file)
 ```
@@ -44,9 +33,6 @@ TODO:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-
-4. Run a sample experiment
-   python src/training/train_chunk_model.py --config configs/chunk_train.json
 
 
 ---
